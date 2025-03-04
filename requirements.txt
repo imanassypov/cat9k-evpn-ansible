@@ -2,4 +2,6 @@ ansible
 ansible-pylibssh
 paramiko
 pyats
+# This installs Genie plus additional parsing and testing libraries (like genie.libs.parser, genie.libs.sdk, etc.)
+pyats[library]
 genie
